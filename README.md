@@ -11,7 +11,7 @@
 ### Programming Languages 
 - C
 - C++
--- Java
+- Java
 - Phyton
 
 ### Development Tools
