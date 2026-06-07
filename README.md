@@ -38,6 +38,9 @@
 
 ### Project Presentation
 
+
+### Aces Learning App
+
 ![image alt]
 (image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/ba1b0f71671bc6487e7af7533357e8d67737ddd0/Image/Screenshot_20260604-143825.jpg).
 
@@ -72,4 +75,12 @@
 
 ![image alt]
 (image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/ba1b0f71671bc6487e7af7533357e8d67737ddd0/Image/Screenshot_20260604-143825.jpg).
+
+
+### Breadboard 
+
+![image alt]
+(image _https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/620d2ae2fdd7f32e28770886387c10e84bb3e856/IMG_20260507_092855_345.jpg).
+
+### PCB
 
