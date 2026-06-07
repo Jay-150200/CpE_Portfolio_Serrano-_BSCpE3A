@@ -86,4 +86,6 @@
 ![image alt]
 (image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/620d2ae2fdd7f32e28770886387c10e84bb3e856/IMG_20260518_144618_810.jpg).
 
+![image alt]
+(image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/620d2ae2fdd7f32e28770886387c10e84bb3e856/IMG_20260518_170439_654.jpg).
 
