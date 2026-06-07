@@ -69,3 +69,7 @@
 ![image alt]
 (image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/ba1b0f71671bc6487e7af7533357e8d67737ddd0/Image/Screenshot_20260604-143821.jpg).
 
+
+![image alt]
+(image_https://github.com/Jay-150200/CpE_Portfolio_Serrano-_BSCpE3A/blob/ba1b0f71671bc6487e7af7533357e8d67737ddd0/Image/Screenshot_20260604-143825.jpg).
+
